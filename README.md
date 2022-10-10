@@ -4,7 +4,7 @@
 <head/>
 <body>
 <h4>
-Programa em python que recebe o valor do salário do solicitante, seu Score e em seguida pergunta quanto o usuário quer pegar de empréstimo
+Programa em python que pergunta o salário do solicitante, seu Score e em seguida quanto o usuário quer pegar de empréstimo
 e em quantas vezes deseja dividir.<br/><br/>
 O programa irá calcula o juros do emprestimo seguindo algumas regras:<br/>
 Só será liberado para o cliente um empréstimo com as parcelas sendo no maximo 35% do salário dele;<br/>
